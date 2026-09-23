@@ -27,9 +27,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [1200-minimum-absolute-difference](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/1200-minimum-absolute-difference/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/tamizhinigopal-tech/leetcode-solutions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 <!---LeetCode Topics End-->
